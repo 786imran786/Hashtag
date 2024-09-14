@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="en"><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="ERROR 119">
+    <meta name="description" content="">
+    <title>Page 4</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Lexend' rel='stylesheet'>
+<link rel="stylesheet" href="Page-4.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery-1.9.1.min.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 6.5.3, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Audiowide:400|Aldrich:400|Aoboshi+One:400">
+    
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "",
+		"sameAs": [
+				"https://facebook.com/name",
+				"https://twitter.com/name",
+				"https://instagram.com/name"
+		]
+}</script>
+    <meta name="theme-color" content="#0d244b">
+    <meta name="twitter:site" content="@">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Page 4">
+    <meta name="twitter:description" content="">
+    <meta property="og:title" content="Page 4">
+    <meta property="og:type" content="website">
+  <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
+  <body data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="en">
+
+    <header>
+      <nav>
+          <ul class="sidebar">
+              <li onclick="hideSidebar()"><a href="#">
+  
+                  <!-- <svg xmlns="http://www.w3.org/2000/svg" height="26" viewBox="0 -960 960 960" width="26"><path d="m256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z"/></svg> -->
+              
+                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="26" height="26" viewBox="0 0 1080 1080" xml:space="preserve">
+                      <desc>Created with Fabric.js 5.2.4</desc>
+                      <defs>
+                      </defs>
+                      <rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+                      <g transform="matrix(1 0 0 1 540 540)" id="fb50415e-119e-4c21-b6fd-be9831b00fea"  >
+                      <rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="26" height="26" />
+                      </g>
+                      <g transform="matrix(1 0 0 1 540 540)" id="5ae5e0ae-f527-404d-9e7c-aa9b7c501235"  >
+                      </g>
+                      <g transform="matrix(1 0 0 1 540 540)" id="da39bb81-5d73-414d-8cf9-22b444baeb69"  >
+                      <path style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-480, 480)" d="M 256 -200 L 200 -256 L 424 -480 L 200 -704 L 256 -760 L 480 -536 L 704 -760 L 760 -704 L 536 -480 L 760 -256 L 704 -200 L 480 -424 L 256 -200 Z" stroke-linecap="round" />
+                      </g>
+                      </svg>
+  
+  
+  
+              </a></li>
+             <li><a href="#"></a></li> 
+             <li><a href="#"></a></li> 
+             <li><a href="#">Dashboard</a></li> 
+             <li><a href="#">Courses</a></li> 
+             <li><a href="#">Login</a></li> 
+          </ul>
+          <ul>
+              <li><div class="logo"><img src="https://i.postimg.cc/T3G1Y1Yz/new-logo.png"> </div></li>
+             <li class="hideOnMobile"><a href="#"></a></li> 
+             <li class="hideOnMobile"><a href="#"></a></li> 
+             <li class="hideOnMobile"><a href="#">Dashboard</a></li> 
+             <li class="hideOnMobile"><a href="#">Courses</a></li> 
+             <li class="hideOnMobile" id="account-btn"><button>Login</button></li> 
+             <li class="menu-button" onclick="showSidebar()"><a href="#">
+              
+              <!-- <svg xmlns="http://www.w3.org/2000/svg" height="26" viewBox="0 -960 960 960" width="26"><path d="M120-240v-80h720v80H120Zm0-200v-80h720v80H120Zm0-200v-80h720v80H120Z"/></svg> -->
+          
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="26" height="26" viewBox="0 0 1080 1080" xml:space="preserve">
+                  <desc>Created with Fabric.js 5.2.4</desc>
+                  <defs>
+                  </defs>
+                  <g transform="matrix(1 0 0 1 540 540)" id="fb50415e-119e-4c21-b6fd-be9831b00fea"  >
+                  <rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="30" height="30" />
+                  </g>
+                  <g transform="matrix(1 0 0 1 540 540)" id="5ae5e0ae-f527-404d-9e7c-aa9b7c501235"  >
+                  </g>
+                  <g transform="matrix(1 0 0 1 540 540)" id="042e3925-0f1d-4fcf-9970-0f563a305646"  >
+                  <path style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-480, 480)" d="M 120 -240 L 120 -320 L 840 -320 L 840 -240 L 120 -240 Z M 120 -440 L 120 -520 L 840 -520 L 840 -440 L 120 -440 Z M 120 -640 L 120 -720 L 840 -720 L 840 -640 L 120 -640 Z" stroke-linecap="round" />
+                  </g>
+                  </svg>
+  
+  
+          </a></li>
+          </ul>
+      </nav>
+      <script>
+          function showSidebar(){
+              const sidebar = document.querySelector('.sidebar')
+              sidebar.style.display = 'flex'
+          }
+          function hideSidebar(){
+              const sidebar = document.querySelector('.sidebar')
+              sidebar.style.display = 'none'
+          }
+      </script>
+      </header>
+
+
+    <section class="u-clearfix u-image u-shading u-section-1" id="sec-110f" data-image-width="498" data-image-height="348">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-container-style u-group u-shape-rectangle u-group-1">
+          <div class="u-container-layout u-container-layout-1">
+            <h1 class="u-align-center u-custom-font u-text u-text-body-alt-color u-text-default u-text-1">ERROR 119</h1>
+            <h4 class="u-align-center u-custom-font u-font-montserrat u-text u-text-default u-text-grey-25 u-text-2">&nbsp;Revolutionizing the Education system</h4>
+            <a  href="sll.php" class="u-border-none u-btn u-btn-round u-button-style u-hover-palette-1-light-1 u-radius u-white u-btn-1">gET STARTED </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+
+    
+    
+    
+    <style>
+         /* --------------------------------------------------HEADER----------------------------------------------------------------------- */
+    .block-line{
+        /* background-color: white; */
+        width: 30vw;
+        height: 2vw;
+        margin-left: 65%;
+        margin-right: 10%;
+        position: absolute;
+        top: 540px;
+        border-radius: 0px 0px 0px 18px;
+    }
+    body{
+            /* background: black; */
+        }
+        
+        #border-line{
+            opacity: 50%;
+            border-radius: 100%;
+            width: 80%;
+        }
+ /* -------------------------------------------[Header]----------------------------------------- */
+
+
+
+
+        /* ------------------------------------------------------------[LOGO]--------------------------------------- */
+        .logo img{
+            width: 70%;
+            padding-left: 20px;
+        }
+
+        /* ------------------------------------------------------------[LOGO]--------------------------------------- */
+
+        #account-btn button{
+            width: 8rem;
+            height: 3rem;
+            border-radius: 10px;
+            font-family: 'Lexend';
+            font-weight: bold;
+            border:none;
+            margin-top: 2rem;
+            cursor: pointer;
+            transition: 0.3s;
+            margin-right: 18px;
+        }
+        #account-btn button:hover{
+            transform: scale(1.1);
+            z-index: 2;
+            box-shadow: 0px 0px 20px white;;
+        }
+
+
+    body{
+        /* background-color: black; */
+
+    }
+    header *{
+    padding: 0;
+    padding: 0;
+    }
+    header{
+      background-color: black;
+      /* margin-top: 2rem; */
+    }
+    nav{
+    background-color: black;
+    box-shadow: 3px 3px 5px rgba(255, 129, 129, 0.1);
+    width: 90%;
+    margin: 0px 5% 0px 5%;
+    height: 9rem;
+    border: 2px dotted white;
+    border-radius: 15px;
+    
+}
+nav ul{
+    width: 100%;
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+nav li{
+    height: 7rem;
+    font-family: 'Lexend';
+}
+
+nav a{
+    height: 100%;
+    padding: 0 30px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    color: white;
+    transition: 0.2s;
+}
+nav a:hover{
+    transform: scale(1.2);
+    z-index: 2;
+    text-shadow: 0px 0px 2rem white;
+}
+nav a:hover{
+    background-color: transparent;
+}
+nav li:first-child{
+    margin-right: auto;
+}
+.sidebar{
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    width: 250px;
+    z-index: 999;
+    background-color: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    box-shadow: -10px 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    margin-right: 2rem;
+    display: none;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.sidebar li{
+    width: 100%;
+}
+.sidebar a{
+    width: 100%;
+}
+.menu-button{
+    display: none;
+}
+@media(max-width: 800px){
+    .hideOnMobile{
+    display: none;
+    }
+    .menu-button{
+        display: block;
+    }
+}
+@media(max-width: 400px){
+    .sidebar{
+        width: 100%;
+    }
+}
+
+</style>
+
+
+
+
+
+
+</body>
+
+</html>
